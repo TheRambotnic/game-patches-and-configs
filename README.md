@@ -82,6 +82,25 @@ Please note that the majority of these patches are meant to be used with Steam.
 ## Mods
 These are some mods that I really enjoy and figured I might link them here.
 
+* **Assetto Corsa**
+	* [Content Manager](https://assettocorsa.club/content-manager.html)
+	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
+	* [RedBull X2010](https://assettocorsa.club/mods/auto/redbull-x2010.html)
+	* [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
+		* [Formula RSS 2013 V8 Community Skin Pack](https://www.racedepartment.com/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
+	* [Formula Hybrid 2021](https://racesimstudio.sellfy.store/p/formula-hybrid-2021/)
+		* [Formula Hybrid 2021 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2021-f1-2021-community-skin-pack.41263/)
+	* [Formula Hybrid 2022](https://racesimstudio.sellfy.store/p/fh22/)
+		* [Formula Hybrid X Prototype 2022](https://racesimstudio.sellfy.store/p/fhx22/)
+		* [Formula Hybrid X Prototype 2022 Skin Pack](https://drive.google.com/drive/folders/1iMZ3q9-nN7erOxibFPRCRFV-Y0R-N7TI)
+	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gtm-pack/)
+	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
+	* [Albert Park Circuit](https://assettocorsa.club/mods/tracks/melbourne-grand-prix-circuit.html)
+	* [Autódromo de Interlagos](https://www.zpeed.com.br/artigos/noticias/57-interlagos-v1-1-vheeth-edition)
+	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
+	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
+	<br/><br/>
+
 * **Blood**
 	* [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)
 	<br/><br/>
