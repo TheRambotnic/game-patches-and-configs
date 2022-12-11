@@ -147,6 +147,12 @@ To install them, simply extract their contents into Half-Life's folder in your S
 
 **DISCLAIMER:** Please note that when using Parabot, some of Half-Life's scripted seequences may be broken. Before installing it, make sure to do a backup of your `liblist.gam` file inside of `<Your Steam Directory/steamapps/common/Half-Life/valve`. To uninstall Parabot, simply replace the `liblist.gam` file with the one you just backed up.
 
+There are 2 bots for **idTech** engine games:
+* [FrikBot X++](https://neogeographica.com/site/pages/mods/fbxpp.html) (for Quake)
+* [Gladiator Bot](https://mrelusive.com/oldprojects/gladiator/download.shtml.htm) (for Quake 2)
+
+To install them, simply extract their contents into Quake's/Quake 2's folder in your Steam directory.
+
 ## Steam launch parameters
 To use these: right click the game > Properties > Launch Options
 
