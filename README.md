@@ -127,6 +127,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Sweet Half-Life](https://www.moddb.com/mods/sweet-half-life)
 	* [Poke646](https://www.moddb.com/mods/poke646-anniversary-edition)
 	* [Signal Lost](https://www.moddb.com/mods/signal-lost)
+	* [USS Darkstar](https://www.runthinkshootlive.com/posts/uss-darkstar/)
 	<br/><br/>
 
 * **Return to Castle Wolfenstein**
