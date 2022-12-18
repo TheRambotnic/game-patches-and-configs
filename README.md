@@ -79,6 +79,9 @@ Please note that the majority of these patches are meant to be used with Steam.
 	* [UT2004 v3369 Patch](https://www.moddb.com/games/unreal-tournament-2004/downloads/ut2004-v3369-including-64-bit)
 <br/><br/>
 
+* Daikatana
+	* [Unofficial 1.3 Patch](https://bitbucket.org/daikatana13/daikatana/wiki/Downloads)
+
 ## Mods
 These are some mods that I really enjoy and figured I might link them here.
 
