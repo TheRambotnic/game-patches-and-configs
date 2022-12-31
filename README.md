@@ -106,6 +106,7 @@ These are some mods that I really enjoy and figured I might link them here.
 
 * **Blood**
 	* [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)
+	* [Voxels Pack](https://github.com/fgsfds/Blood-Voxel-Pack)
 	<br/><br/>
 
 * **Quake**
