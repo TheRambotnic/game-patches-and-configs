@@ -26,16 +26,12 @@ The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Sa
 ## Patches and Sourceports
 Please note that the majority of these patches are meant to be used with Steam.
 
-* Duke Nukem 3D
-	* [EDuke32 Sourceport](https://www.eduke32.com/)
+* Duke Nukem 3D & Shadow Warrior Classic
+	* [EDuke32 + VoidSW Sourceport](https://www.eduke32.com/) (For Shadow Warrior Classic Redux, replace `sw.exe` with `voidsw.exe`)
 <br/><br/>
 
 * Blood
 	* [NBlood Sourceport](https://github.com/nukeykt/NBlood/) (Replace `anuket_x64.exe` with `nblood.exe`)
-<br/><br/>
-
-* Shadow Warrior
-	* [Raze3D Sourceport](https://github.com/coelckers/Raze) (Replace `sw.exe` with `raze.exe`)
 <br/><br/>
 
 * Painkiller: Black Edition
