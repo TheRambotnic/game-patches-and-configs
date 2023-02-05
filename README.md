@@ -66,7 +66,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 <br/><br/>
 
 * Unreal Gold
-	* [OldUnreal's Patch 227i](https://www.oldunreal.com/downloads/unreal/oldunreal-patches/)
+	* [OldUnreal's Patch 227j](https://www.oldunreal.com/downloads/unreal/oldunreal-patches-for-unreal-latest-ver.j/)
 <br/><br/>
 
 * Unreal Tournament
@@ -134,6 +134,9 @@ These are some mods that I really enjoy and figured I might link them here.
 
 * **Return to Castle Wolfenstein**
 	* [RealRTCW](https://store.steampowered.com/app/1379630/RealRTCW/)
+
+* **Unreal Gold**
+	* [The One](https://www.oldunreal.com/phpBB3/viewtopic.php?p=101445#p101445)
 
 ## Bots
 There are 5 bots for **GoldSrc** engine games:
