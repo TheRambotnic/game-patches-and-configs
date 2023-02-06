@@ -43,7 +43,9 @@ Please note that the majority of these patches are meant to be used with Steam.
 <br/><br/>
 
 * Quake
-	* [Quakespasm Spiked Sourceport](https://triptohell.info/moodles/qss/) (Replace `glquake.exe` with `quakespasm-spiked-win64.exe`)
+	* [Ironwail Sourceport](https://github.com/andrei-drexler/ironwail) (Replace `glquake.exe` with `ironwail.exe`)
+		* NOTE: To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside
+
 	* [Mission Packs 1 and 2: Scourge of Armagon + Dissolution of Eternity](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
 	<br/><br/>
 
