@@ -52,7 +52,6 @@ Please note that the majority of these patches are meant to be used with Steam.
 * Quake II
 	* [Yamagi Quake II Sourceport](https://www.yamagi.org/quake2/) (Replace `quake2.exe` with `yquake2.exe`)
 	* [KMQuake II Sourceport and Patches](http://www.markshan.com/knightmare/)
-	* [Mission Packs 1 and 2: The Reckoning + Ground Zero](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
 	<br/><br/>
 
 * Return to Castle Wolfenstein
