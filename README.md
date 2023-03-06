@@ -45,13 +45,11 @@ Please note that the majority of these patches are meant to be used with Steam.
 * Quake
 	* [Ironwail Sourceport](https://github.com/andrei-drexler/ironwail) (Replace `glquake.exe` with `ironwail.exe`)
 		* NOTE: To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside
-
-	* [Mission Packs 1 and 2: Scourge of Armagon + Dissolution of Eternity](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
 	<br/><br/>
 
 * Quake II
 	* [Yamagi Quake II Sourceport](https://www.yamagi.org/quake2/) (Replace `quake2.exe` with `yquake2.exe`)
-	* [KMQuake II Sourceport and Patches](http://www.markshan.com/knightmare/)
+	* [Quake 2 + Mission Packs Soundtrack](https://drive.google.com/drive/folders/124YaufMF45MBgl0kUOmikpEb2ZNPWISG?usp=share_link)
 	<br/><br/>
 
 * Return to Castle Wolfenstein
@@ -199,7 +197,7 @@ If using Xash3D FWGS, add `-console` to enable the console
 ```
 +g_showintromovie 0
 ```
-If using QuakeSpasm Spiked, add these commands: `-fitz -sndspeed 44100 -heapsize 1024000`
+If using Ironwail, add these commands: `-fitz -sndspeed 44100 -heapsize 1024000`
 
 <br/>
 
