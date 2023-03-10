@@ -1,5 +1,18 @@
 # Game Patches, Fixes and Configs
-This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. These settings were tested on PC with a Nvidia RTX 2060 6GB GPU, Intel i5-9400F CPU and 16 GBs of RAM. **WINDOWS USERS ONLY!**
+This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point.
+
+These settings were tested on PC:
+* **OS:** Windows 10 Pro (64-bit)
+* **Motherboard:** Gigabyte Z590 AORUS ELITE ATX LGA 1200
+* **CPU:** Intel Core i7-11700KF 3.6 GHz (5.0 GHz Max)
+* **CPU Cooler:** Cooler Master Masterliquid ML240L V2 RGB
+* **GPU:** MSI GeForce RTX 2060 6 GB VENTUS
+* **RAM:** Corsair Vengeance 32 GB DDR4-3600 MHz (2x16 GB)
+* **Case:** NZXT H510 Flow
+* **PSU:** Corsair RM850x 850W Gold+ Full Modular
+* **Storage:**
+	* **OS:** WD Blue 500 GB NVMe M.2 (SSD)
+	* **Files:** Seagate Barracuda 2 TB 7200 RPM (HDD)
 
 | Table of Contents 										|
 |-----------------------------------------------------------|
@@ -96,7 +109,6 @@ These are some mods that I really enjoy and figured I might link them here.
 		* [Formula Hybrid 2022 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2022-f1-2022-community-skin-pack.56922/)
 	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gtm-pack/)
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
-	* [Albert Park Circuit](https://assettocorsa.club/mods/tracks/melbourne-grand-prix-circuit.html)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 	<br/><br/>
