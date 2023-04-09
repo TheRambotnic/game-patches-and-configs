@@ -88,7 +88,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 <br/><br/>
 
 * Unreal Tournament 2004
-	* [UT2004 v3369 Patch](https://www.moddb.com/games/unreal-tournament-2004/downloads/ut2004-v3369-including-64-bit)
+	* [UT2004 Community Patch](https://www.moddb.com/games/unreal-tournament-2004/downloads/ut2004-community-patch-2023)
 <br/><br/>
 
 * Daikatana
