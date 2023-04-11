@@ -89,6 +89,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 
 * Unreal Tournament 2004
 	* [UT2004 Community Patch](https://www.moddb.com/games/unreal-tournament-2004/downloads/ut2004-community-patch-2023)
+	* [Direct3D 8 to Direct3D 9 Wrapper](https://github.com/crosire/d3d8to9) (Place inside of the `System` folder)
 <br/><br/>
 
 * Daikatana
