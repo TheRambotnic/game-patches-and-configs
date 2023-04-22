@@ -199,6 +199,8 @@ To use these: right click the game > Properties > Launch Options
 ```
 If using Xash3D FWGS, add `-console` to enable the console
 
+If playing Opposing Force, make sure `fps_max` is equal or lower than 120. Anything higher will break rope physics
+
 <br/>
 
 - **Half-Life 2** (and general Source Engine games)
