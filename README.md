@@ -135,6 +135,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Half-Life: Black Ops](https://www.moddb.com/mods/black-ops)
 	* [Half-Life: Delta](https://www.moddb.com/mods/half-life-delta)
 	* [Half-Life: Field Intensity](https://www.moddb.com/mods/field-intensity)
+	* [Half-Life: MMod](https://store.steampowered.com/app/1761270/HalfLife_MMod/)
 	* [They Hunger](https://www.runthinkshootlive.com/posts/they-hunger/)
 	* [Residual Point + Residual Life](https://www.runthinkshootlive.com/posts/residual-life/)
 	* [Gunman Chronicles](https://www.moddb.com/games/gunman-chronicles)
