@@ -77,6 +77,9 @@ Please note that the majority of these patches are meant to be used with Steam.
 	* [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
 <br/><br/>
 
+* Titanfall 2
+	* [Northstar Client](https://northstar.tf/)
+
 * Unreal Gold
 	* [OldUnreal's Patch 227j](https://www.oldunreal.com/downloads/unreal/oldunreal-patches-for-unreal-latest-ver.j/)
 <br/><br/>
