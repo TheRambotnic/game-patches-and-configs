@@ -65,6 +65,10 @@ Please note that the majority of these patches are meant to be used with Steam.
 	* [Quake 2 + Mission Packs Soundtrack](https://drive.google.com/drive/folders/124YaufMF45MBgl0kUOmikpEb2ZNPWISG?usp=share_link)
 	<br/><br/>
 
+* Quake 4
+	* [Quake 4 Tweaker](https://community.pcgamingwiki.com/files/file/1009-quake-4-tweaker/)
+	<br/><br/>
+
 * Return to Castle Wolfenstein
 	* [iortcw Sourceport](https://github.com/iortcw/iortcw)
 	<br/><br/>
