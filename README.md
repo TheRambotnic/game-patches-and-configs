@@ -119,6 +119,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
+		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
 	<br/><br/>
 
 * **Blood**
