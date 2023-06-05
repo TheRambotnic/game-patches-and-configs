@@ -115,6 +115,7 @@ These are some mods that I really enjoy and figured I might link them here.
 		* [Formula Hybrid 2021 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2021-f1-2021-community-skin-pack.41263/)
 	* [Formula Hybrid 2022](https://racesimstudio.sellfy.store/p/fh22/)
 		* [Formula Hybrid 2022 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2022-f1-2022-community-skin-pack.56922/)
+	* [Formula Hybrid® 2023](https://racesimstudio.sellfy.store/p/fh23/)
 	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gtm-pack/)
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
