@@ -108,7 +108,7 @@ These are some mods that I really enjoy and figured I might link them here.
 * **Assetto Corsa**
 	* [Content Manager](https://assettocorsa.club/content-manager.html)
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
-	* [RedBull X2010](https://assettocorsa.club/mods/auto/redbull-x2010.html)
+	* [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
 	* [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
 		* [Formula RSS 2013 V8 Community Skin Pack](https://www.racedepartment.com/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
 	* [Formula Hybrid 2021](https://racesimstudio.sellfy.store/p/formula-hybrid-2021/)
@@ -118,6 +118,8 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Formula Hybrid® 2023](https://racesimstudio.sellfy.store/p/fh23/)
 	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gtm-pack/)
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
+	* [Porsche 992 GT3 RS 2023 3 Pack](https://www.patreon.com/posts/80851956)
+	* [Lexus RC F GT3](https://www.assettoworld.com/car/lexus-rc-f-gt3-acc)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
