@@ -108,6 +108,7 @@ These are some mods that I really enjoy and figured I might link them here.
 * **Assetto Corsa**
 	* [Content Manager](https://assettocorsa.club/content-manager.html)
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
+	* [Crew Chief](https://thecrewchief.org/)
 	* [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
 	* [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
 		* [Formula RSS 2013 V8 Community Skin Pack](https://www.racedepartment.com/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
