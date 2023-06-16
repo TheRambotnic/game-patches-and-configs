@@ -13,6 +13,7 @@ These settings were tested on PC:
 * **Storage:**
 	* **OS:** WD Blue 500 GB NVMe M.2 (SSD)
 	* **Files:** Seagate Barracuda 2 TB 7200 RPM (HDD)
+	* **Games:** Kingston NV2 1 TB NVMe M.2 (SSD)
 
 | Table of Contents 										|
 |-----------------------------------------------------------|
