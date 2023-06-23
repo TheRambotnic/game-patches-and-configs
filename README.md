@@ -147,6 +147,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Brutal Half-Life](https://www.moddb.com/mods/brutal-half-life)
 	* [Half-Life: Black Ops](https://www.moddb.com/mods/black-ops)
 	* [Half-Life: Delta](https://www.moddb.com/mods/half-life-delta)
+	* [Half-Life: Echoes](https://www.moddb.com/mods/half-life-echoes)
 	* [Half-Life: Field Intensity](https://www.moddb.com/mods/field-intensity)
 	* [Half-Life: MMod](https://store.steampowered.com/app/1761270/HalfLife_MMod/)
 	* [They Hunger](https://www.runthinkshootlive.com/posts/they-hunger/)
@@ -157,6 +158,15 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Signal Lost](https://www.moddb.com/mods/signal-lost)
 	* [USS Darkstar](https://www.runthinkshootlive.com/posts/uss-darkstar/)
 	<br/><br/>
+
+* **Half-Life 2:**
+	* [Entropy: Zero](https://store.steampowered.com/app/714070/Entropy__Zero/)
+	* [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy__Zero_2/)
+	* [Underhell](https://www.moddb.com/mods/underhell)
+	* [The Citizen](https://www.moddb.com/mods/the-citizen)
+	* [The Citizen Returns](https://www.moddb.com/mods/the-citizen-returns)
+	* [MINERVA](https://store.steampowered.com/app/235780/MINERVA/)
+	* [Half-Life 2: DownFall](https://store.steampowered.com/app/587650/HalfLife_2_DownFall/)
 
 * **Return to Castle Wolfenstein**
 	* [RealRTCW](https://store.steampowered.com/app/1379630/RealRTCW/)
