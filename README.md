@@ -71,7 +71,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 	<br/><br/>
 
 * Return to Castle Wolfenstein
-	* [iortcw Sourceport](https://github.com/iortcw/iortcw)
+	* [iortcw Sourceport](https://github.com/iortcw/iortcw) (Replace `WolfSP.exe` with `ioWolfSP.x64.exe`)
 	<br/><br/>
 
 * Half-Life
