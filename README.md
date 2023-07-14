@@ -45,7 +45,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 <br/><br/>
 
 * Blood
-	* [NBlood Sourceport](https://github.com/nukeykt/NBlood/) (Replace `anuket_x64.exe` with `nblood.exe`)
+	* [NotBlood Sourceport](https://github.com/clipmove/NotBlood) (Replace `anuket_x64.exe` with `notblood.exe`)
 <br/><br/>
 
 * Shadow Warrior Classic
