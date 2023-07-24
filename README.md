@@ -118,13 +118,14 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Formula Hybrid 2022](https://racesimstudio.sellfy.store/p/fh22/)
 		* [Formula Hybrid 2022 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2022-f1-2022-community-skin-pack.56922/)
 	* [Formula Hybrid® 2023](https://racesimstudio.sellfy.store/p/fh23/)
-	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gtm-pack/)
+	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gt-m/)
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
 	* [Porsche 992 GT3 RS 2023 3 Pack](https://www.patreon.com/posts/80851956)
 	* [Lexus RC F GT3](https://www.assettoworld.com/car/lexus-rc-f-gt3-acc)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
+	* [Bathurst Circuit](https://www.racedepartment.com/downloads/bathurst.8677/)
 	<br/><br/>
 
 * **Blood**
