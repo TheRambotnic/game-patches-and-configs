@@ -125,7 +125,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
-	* [Bathurst Circuit](https://www.racedepartment.com/downloads/bathurst.8677/)
+	* [Bathurst Circuit](http://www.mediafire.com/file/q0fjrwil59d8ig7/rt_bathurst.rar/file)
 	<br/><br/>
 
 * **Blood**
