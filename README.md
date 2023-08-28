@@ -110,6 +110,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Content Manager](https://assettocorsa.club/content-manager.html)
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
 	* [Crew Chief](https://thecrewchief.org/)
+	* [New A.I + Track Fixing Mega Pack](https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
 	* [Fonsecker Sound Pack Part 4 (Porsche Pack)](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-4-porsche-pack.13468/)
 	* [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
 	* [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
@@ -119,6 +120,17 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Formula Hybrid 2022](https://racesimstudio.sellfy.store/p/fh22/)
 		* [Formula Hybrid 2022 Community Skin Pack](https://www.racedepartment.com/downloads/formula-hybrid-2022-f1-2022-community-skin-pack.56922/)
 	* [Formula Hybrid® 2023](https://racesimstudio.sellfy.store/p/fh23/)
+		* [Pirelli Tyres for FH23](https://www.racedepartment.com/downloads/pirelli-tires-for-rss-formula-hybrid-2023-and-2022.60469/)
+		* [Mercedes W14 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-mercedes-w14-livery.60420/)
+		* [Alpine A523 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-alpine-a523-livery.60511/)
+		* [Alfa Romeo C43 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-alfa-romeo-c43-livery.60504/)
+		* [Williams FW45 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-williams-fw45-livery.60558/)
+		* [AlphaTauri AT04 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-alphatauri-at04-livery.60688/)
+		* [Aston Martin AMR23 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-aston-martin-amr23-livery.60460/)
+		* [McLaren MCL60 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-mclaren-mcl60-livery.60627/)
+		* [Ferrari SF-23 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-ferrari-sf-23-livery.60379/)
+		* [Red Bull RB19 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-red-bull-rb19-livery.60347/)
+		* [HAAS VF23 Livery](https://www.racedepartment.com/downloads/rss-formula-hybrid-2023-haas-vf23-livery.60497/)
 	* [RSS GT-M Pack](https://racesimstudio.sellfy.store/p/rss-gt-m/)
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
 	* [Porsche 992 GT3 RS 2023 3 Pack](https://www.patreon.com/posts/80851956)
@@ -127,6 +139,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
 	* [Bathurst Circuit](http://www.mediafire.com/file/q0fjrwil59d8ig7/rt_bathurst.rar/file)
+	* [Circuit Gilles Villeneuve](https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file)
 	<br/><br/>
 
 * **Blood**
