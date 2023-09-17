@@ -111,6 +111,9 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
 	* [Crew Chief](https://thecrewchief.org/)
 	* [New A.I + Track Fixing Mega Pack](https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
+	* [Fonsecker Sound Pack Part 1](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-1.7226/)
+	* [Fonsecker Sound Pack Part 2](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-2.10230/)
+	* [Fonsecker Sound Pack Part 3](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-3.12240/)
 	* [Fonsecker Sound Pack Part 4 (Porsche Pack)](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-4-porsche-pack.13468/)
 	* [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
 	* [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
@@ -140,6 +143,8 @@ These are some mods that I really enjoy and figured I might link them here.
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
 	* [Bathurst Circuit](http://www.mediafire.com/file/q0fjrwil59d8ig7/rt_bathurst.rar/file)
 	* [Circuit Gilles Villeneuve](https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file)
+	* [LA Canyons](https://www.racedepartment.com/downloads/la-canyons.15067/)
+		* [Two-Way Traffic Layout](https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/)
 	<br/><br/>
 
 * **Blood**
