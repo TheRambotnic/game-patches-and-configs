@@ -24,7 +24,7 @@ These settings were tested on PC:
 | [5. Steam launch parameters](#steam-launch-parameters)	|
 
 ## Folder names
-Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
+Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches. The folder `_Unknown` contains settings from games which I do not know what engine was used.
 
 There's also certain folders that contain complex names with brackets. Whatever files are inside of them, you must place them in the correct path inside of your computer.
 
@@ -34,6 +34,15 @@ There's also certain folders that contain complex names with brackets. Whatever 
 		* [%USERPROFILE%] [Saved Games] [id Software] [DOOM] [base]
 
 The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Saved Games/id Software/DOOM/base` for DOOM (2016)'s config files.
+
+If the folder DOES NOT contain complex names with brackets, that means the files are stored/placed inside Steam's game directory.
+
+**EXAMPLE:**
+* Unity
+	* Dusk
+		* config
+
+The above example would correspond to the following path in your computer: `<Your_Steam_Library_Folder>/steamapps/common/Dusk/config`.
 
 **One last thing:** some files could not be added to the repository due to file size, so I'll be linking them below.
 
