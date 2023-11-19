@@ -261,6 +261,12 @@ If playing Opposing Force, make sure `fps_max` is equal or lower than 120. Anyth
 ```
 <br/>
 
+- **Half-Life: Alyx**
+```
+-novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 2 +vr_msaa 2 +vr_fxaa 0 +hlvr_continuous_normal_speed 110 +hlvr_continuous_combat_speed 135
+```
+<br/>
+
 - **Quake**
 ```
 +g_showintromovie 0
