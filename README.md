@@ -147,6 +147,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
 	* [Porsche 992 GT3 RS 2023 3 Pack](https://www.patreon.com/posts/80851956)
 	* [Lexus RC F GT3](https://www.assettoworld.com/car/lexus-rc-f-gt3-acc)
+	* [Aston Martin DB11](https://assettocorsamods.io/cars/street/aston_martin_db111/)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
@@ -154,6 +155,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Circuit Gilles Villeneuve](https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file)
 	* [LA Canyons](https://www.racedepartment.com/downloads/la-canyons.15067/)
 		* [Two-Way Traffic Layout](https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/)
+	* [Circuit de la Sarthe (Le Mans 24H)](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/)
 	<br/><br/>
 
 * **Blood**
