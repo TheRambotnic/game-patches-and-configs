@@ -120,6 +120,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
 	* [Crew Chief](https://thecrewchief.org/)
 	* [New A.I + Track Fixing Mega Pack](https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
+	* [Rolling Start](https://www.patreon.com/posts/assetto-corsa-90241971)
 	* [Fonsecker Sound Pack Part 1](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-1.7226/)
 	* [Fonsecker Sound Pack Part 2](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-2.10230/)
 	* [Fonsecker Sound Pack Part 3](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-3.12240/)
