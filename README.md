@@ -148,6 +148,8 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Lexus RC F GT3](https://www.assettoworld.com/car/lexus-rc-f-gt3-acc)
 	* [Aston Martin DB11](https://assettocorsamods.io/cars/street/aston_martin_db111/)
 	* [URD Darche 992 GT3-R](https://www.unitedracingdesign.com/product-page/ac-darche-992-gt3-r-2023)
+	* [URD Bayro EGT 2018](https://unitedracingdesign.sellfy.store/p/vccfbk/)
+	* [URD Bayro 4 GT3](https://unitedracingdesign.sellfy.store/p/ac-bayro-4-gt3/)
 	* [Sepang International Circuit](https://assettocorsa.club/mods/tracks/sepang-international-circuit.html)
 	* [Suzuka International Circuit](https://assettocorsa.club/mods/tracks/suzuka-international-circuit.html)
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
