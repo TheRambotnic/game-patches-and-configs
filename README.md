@@ -155,6 +155,7 @@ These are some mods that I really enjoy and figured I might link them here.
 		* [2022 Super GT Extension](https://www.racedepartment.com/downloads/suzuka-international-circuit-2022-super-gt-extension-for-suzuka-by-reboot-team.58163/)
 	* [Bathurst Circuit](http://www.mediafire.com/file/q0fjrwil59d8ig7/rt_bathurst.rar/file)
 	* [Bannochbrae](https://www.mediafire.com/file/bb7hl4xqlsyaz4z/rt_bannochbrae_1.5.7z)
+	* [Zolder](https://www.mediafire.com/file/twg7ckfal3ch480/rt_zolder.7z/file)
 	* [Daytona](https://drive.google.com/file/d/1FsmKs8yY2xiLkR-zSlsiFP9E5Ba4dOp2/edit)
 	* [Circuit Gilles Villeneuve](https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file)
 	* [LA Canyons](https://www.racedepartment.com/downloads/la-canyons.15067/)
