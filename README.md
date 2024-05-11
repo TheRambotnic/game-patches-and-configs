@@ -2,7 +2,7 @@
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point.
 
 These settings were tested on PC:
-* **OS:** Windows 10 Pro (64-bit)
+* **OS:** Windows 11 Pro (64-bit)
 * **Motherboard:** Gigabyte Z590 AORUS ELITE ATX LGA 1200
 * **CPU:** Intel Core i7-11700KF 3.6 GHz (5.0 GHz Max)
 * **CPU Cooler:** Cooler Master Masterliquid ML240L V2 RGB
