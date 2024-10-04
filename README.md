@@ -121,6 +121,7 @@ These are some mods that I really enjoy and figured I might link them here.
 	* [Sidekick Extended](https://www.nutrimatic.cc/assetto-corsa/sidekick-extended/)
 	* [CMRT Essential HUD](https://www.overtake.gg/downloads/cmrt-essential-hud.69475/)
 	* [SimHub](https://www.simhubdash.com/)
+		* [ACC HUD Overlay](https://www.overtake.gg/downloads/acc-hud-simhub.60807/)
 	* [Crew Chief](https://thecrewchief.org/)
 	* [C13 AEGIS Post Processing Filter](https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/)
 	* [Sol](https://www.overtake.gg/downloads/sol.24914/)
