@@ -27,7 +27,7 @@
       <color red="0" green="0.937514305" blue="0"/>
     </crosshairs>
   </player>
-  <input device="1" modifiers="48" sens_horizontal="2143" sens_vertical="2893" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity="65536" controller_deadzone="3276">
+  <input device="1" modifiers="49" sens_horizontal="2143" sens_vertical="2893" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity="65536" controller_deadzone="3276">
     <binding action="forward" pressed="w"/>
     <binding action="forward" pressed="controller-ls-up"/>
     <binding action="back" pressed="s"/>
