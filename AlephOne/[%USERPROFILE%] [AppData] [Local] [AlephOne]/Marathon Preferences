@@ -27,7 +27,7 @@
       <color red="0.937514305" green="0.937514305" blue="0.937514305"/>
     </crosshairs>
   </player>
-  <input device="1" modifiers="49" sens_horizontal="2080" sens_vertical="2893" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity="52070" controller_deadzone="6553">
+  <input device="1" modifiers="49" sens_horizontal="1979" sens_vertical="2671" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity="52070" controller_deadzone="6553">
     <binding action="forward" pressed="w"/>
     <binding action="forward" pressed="controller-ls-up"/>
     <binding action="back" pressed="s"/>
@@ -77,15 +77,10 @@
     <binding action="hotkey-1" pressed="1"/>
     <binding action="hotkey-2" pressed="2"/>
     <binding action="hotkey-3" pressed="3"/>
-    <binding action="hotkey-4" pressed="4"/>
-    <binding action="hotkey-5" pressed="5"/>
-    <binding action="hotkey-6" pressed="6"/>
-    <binding action="hotkey-7" pressed="7"/>
-    <binding action="hotkey-8" pressed="8"/>
-    <binding action="hotkey-9" pressed="9"/>
-    <binding action="hotkey-10" pressed="t"/>
-    <binding action="hotkey-11" pressed="g"/>
-    <binding action="hotkey-12" pressed="b"/>
+    <binding action="hotkey-5" pressed="c"/>
+    <binding action="hotkey-7" pressed="x"/>
+    <binding action="hotkey-8" pressed="q"/>
+    <binding action="hotkey-9" pressed="t"/>
   </input>
   <sound volume_db="-8" music_db="-6" flags="250" rate="44100" samples="1024" video_export_volume_db="-8" channel="2"/>
   <network untimed="false" type="3" game_type="0" difficulty="2" game_options="1423" time_limit="18000" kill_limit="10" entry_point="0" autogather="false" join_by_address="false" join_address="" local_game_port="4226" game_protocol="star" use_netscript="false" netscript_file="" cheat_flags="39" advertise_on_metaserver="false" attempt_upnp="false" use_remote_hub="true" check_for_updates="true" verify_https="false" metaserver_login="guest" metaserver_password="72657665726f66206e6f68746172616d" use_custom_metaserver_colors="false" mute_metaserver_guests="false" join_metaserver_by_default="false" allow_stats="false">
