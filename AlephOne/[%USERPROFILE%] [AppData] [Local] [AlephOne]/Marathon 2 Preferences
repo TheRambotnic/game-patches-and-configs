@@ -74,16 +74,13 @@
     <binding action="net-stats" pressed="n"/>
     <binding action="hotkey-1" pressed="1"/>
     <binding action="hotkey-2" pressed="2"/>
-    <binding action="hotkey-3" pressed="3"/>
-    <binding action="hotkey-4" pressed="4"/>
-    <binding action="hotkey-5" pressed="5"/>
+    <binding action="hotkey-3" pressed="4"/>
+    <binding action="hotkey-4" pressed="3"/>
+    <binding action="hotkey-5" pressed="c"/>
     <binding action="hotkey-6" pressed="6"/>
-    <binding action="hotkey-7" pressed="7"/>
-    <binding action="hotkey-8" pressed="8"/>
-    <binding action="hotkey-9" pressed="9"/>
-    <binding action="hotkey-10" pressed="t"/>
-    <binding action="hotkey-11" pressed="g"/>
-    <binding action="hotkey-12" pressed="b"/>
+    <binding action="hotkey-7" pressed="x"/>
+    <binding action="hotkey-8" pressed="q"/>
+    <binding action="hotkey-9" pressed="t"/>
   </input>
   <sound volume_db="0" music_db="-3" flags="250" rate="44100" samples="1024" video_export_volume_db="-8" channel="2"/>
   <network untimed="false" type="3" game_type="0" difficulty="2" game_options="1423" time_limit="18000" kill_limit="10" entry_point="0" autogather="false" join_by_address="false" join_address="" local_game_port="4226" game_protocol="star" use_netscript="false" netscript_file="" cheat_flags="39" advertise_on_metaserver="false" attempt_upnp="false" use_remote_hub="true" check_for_updates="true" verify_https="false" metaserver_login="guest" metaserver_password="72657665726f66206e6f68746172616d" use_custom_metaserver_colors="false" mute_metaserver_guests="false" join_metaserver_by_default="false" allow_stats="false">
@@ -94,7 +91,7 @@
       <spoke pregame_ticks_before_net_death="2700" ingame_ticks_before_net_death="150" recovery_send_period="15" timing_window_size="90" timing_nth_element="45" adjust_timing="true"/>
     </star_protocol>
   </network>
-  <environment map_file="$default$\Map.sceA" physics_file="$default$\Physics Models\Standard.phyA" shapes_file="$default$\Shapes.shpA" sounds_file="$default$\Sounds.sndA" resources_file="$local$\Marathon.appl" map_checksum="762432692" physics_checksum="525520953" shapes_mod_date="1720875536" sounds_mod_date="1720875536" group_by_directory="true" reduce_singletons="false" smooth_text="true" solo_lua_file="" use_solo_lua="false" use_replay_net_lua="false" hide_alephone_extensions="true" film_profile="1" maximum_quick_saves="500" use_native_file_dialogs="false" auto_play_demos="true">
+  <environment map_file="$default$\Map.sceA" physics_file="$default$\Physics Models\Standard.phyA" shapes_file="$default$\Shapes.shpA" sounds_file="$default$\Sounds.sndA" resources_file="$local$\Marathon.appl" map_checksum="762432692" physics_checksum="525520953" shapes_mod_date="1720875536" sounds_mod_date="1720875536" group_by_directory="true" reduce_singletons="false" smooth_text="true" solo_lua_file="$default$\Scripts\Cheats.lua" use_solo_lua="true" use_replay_net_lua="false" hide_alephone_extensions="true" film_profile="1" maximum_quick_saves="500" use_native_file_dialogs="false" auto_play_demos="true">
     <disable_plugin path="$default$\Plugins\Transparent Liquids"/>
   </environment>
 </mara_prefs>
