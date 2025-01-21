@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mara_prefs version="20240822">
-  <graphics scmode_width="1920" scmode_height="1080" scmode_auto_resolution="false" scmode_high_dpi="true" scmode_hud="true" scmode_hud_scale="2" scmode_term_scale="2" scmode_translucent_map="false" scmode_camera_bob="1" scmode_accel="1" scmode_highres="true" scmode_draw_every_other_line="false" scmode_fov="120" scmode_fullscreen="true" scmode_bitdepth="32" scmode_gamma="5" scmode_fix_h_not_v="true" ogl_flags="19073" software_alpha_blending="0" software_sdl_driver="0" fps_target="120" anisotropy_level="0" multisamples="0" wait_for_vsync="false" gamma_corrected_blending="false" use_npot="false" movie_export_video_quality="50" movie_export_video_bitrate="0" movie_export_audio_quality="50" scripted_effects_quality="2">
+  <graphics scmode_width="1920" scmode_height="1080" scmode_auto_resolution="false" scmode_high_dpi="true" scmode_hud="true" scmode_hud_scale="2" scmode_term_scale="2" scmode_translucent_map="false" scmode_camera_bob="1" scmode_accel="1" scmode_highres="true" scmode_draw_every_other_line="false" scmode_fov="120" scmode_fullscreen="true" scmode_bitdepth="32" scmode_gamma="5" scmode_fix_h_not_v="true" ogl_flags="2697" software_alpha_blending="0" software_sdl_driver="0" fps_target="120" anisotropy_level="0" multisamples="0" wait_for_vsync="false" gamma_corrected_blending="false" use_npot="false" movie_export_video_quality="50" movie_export_video_bitrate="0" movie_export_audio_quality="50" scripted_effects_quality="2">
     <void>
       <color red="0" green="0" blue="0"/>
     </void>
@@ -77,10 +77,14 @@
     <binding action="hotkey-1" pressed="1"/>
     <binding action="hotkey-2" pressed="2"/>
     <binding action="hotkey-3" pressed="3"/>
+    <binding action="hotkey-4" pressed="4"/>
     <binding action="hotkey-5" pressed="c"/>
+    <binding action="hotkey-6" pressed="6"/>
     <binding action="hotkey-7" pressed="x"/>
     <binding action="hotkey-8" pressed="q"/>
     <binding action="hotkey-9" pressed="t"/>
+    <binding action="hotkey-11" pressed="g"/>
+    <binding action="hotkey-12" pressed="b"/>
   </input>
   <sound volume_db="-8" music_db="-6" flags="250" rate="44100" samples="1024" video_export_volume_db="-8" channel="2"/>
   <network untimed="false" type="3" game_type="0" difficulty="2" game_options="1423" time_limit="18000" kill_limit="10" entry_point="0" autogather="false" join_by_address="false" join_address="" local_game_port="4226" game_protocol="star" use_netscript="false" netscript_file="" cheat_flags="39" advertise_on_metaserver="false" attempt_upnp="false" use_remote_hub="true" check_for_updates="true" verify_https="false" metaserver_login="guest" metaserver_password="72657665726f66206e6f68746172616d" use_custom_metaserver_colors="false" mute_metaserver_guests="false" join_metaserver_by_default="false" allow_stats="false">
