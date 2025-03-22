@@ -17,6 +17,7 @@
 				<li><a href="https://www.simhubdash.com/">SimHub</a></li>
 				<li><a href="https://thecrewchief.org/">Crew Chief</a></li>
 				<li><a href="https://www.overtake.gg/downloads/extended-controls.67824/">Extended Controls</a></li>
+				<li><a href="https://www.overtake.gg/downloads/broken-cars-kicker.72778/">Broken Cars Kicker</a></li>
 			</ul>
 		</td>
 		<!-- Cars -->
