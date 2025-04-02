@@ -33,8 +33,6 @@
 				<li><a href="https://racesimstudio.sellfy.store/p/mph-bayer-v8/">RSS MP-H Bayer Hybrid V8</a></li>
 				<li><a href="https://www.assettoworld.com/car/lexus-rc-f-gt3-acc">Lexus RC F GT3</a></li>
 				<li><a href="https://assettocorsamods.io/cars/street/aston_martin_db111/">Aston Martin DB11</a></li>
-				<li><a href="https://www.unitedracingdesign.com/product-page/ac-darche-992-gt3-r-2023">URD Darche 992 GT3-R</a></li>
-				<li><a href="https://unitedracingdesign.sellfy.store/p/vccfbk/">URD Bayro EGT 2018</a></li>
 				<li><a href="https://unitedracingdesign.sellfy.store/p/ac-bayro-4-gt3/">URD Bayro 4 GT3</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-one/">VRC Prototype H Pack One</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-two/">VRC Prototype H Pack Two</a></li>
