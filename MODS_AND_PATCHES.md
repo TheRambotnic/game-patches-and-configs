@@ -10,8 +10,8 @@
 		<!-- Apps -->
 		<td>
 			<ul>
-				<li><a href="https://assettocorsa.club/content-manager.html">Content Manager</a></li>
-				<li><a href="https://acstuff.ru/patch/">Custom Shaders Patch</a></li>
+				<li><a href="https://acstuff.club/app/">Content Manager</a></li>
+				<li><a href="https://acstuff.club/patch/">Custom Shaders Patch</a></li>
 				<li><a href="https://www.overtake.gg/downloads/cmrt-essential-hud.69475/">CMRT Essential HUD</a></li>
 				<li><a href="https://www.overtake.gg/downloads/iclicker-audible-indicator-clicks-and-more.52664/">iClicker</a></li>
 				<li><a href="https://www.simhubdash.com/">SimHub</a></li>
@@ -47,7 +47,6 @@
 		<!-- Tracks -->
 		<td>
 			<ul>
-				<li><a href="https://assettocorsa.club/mods/tracks/sepang-international-circuit.html">Sepang International Circuit</a></li>
 				<li><a href="https://www.patreon.com/posts/99970979">Reboot Team's ACC Track Conversions</a></li>
 				<li><a href="https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file">Circuit Gilles Villeneuve</a></li>
 				<li><a href="https://shutokorevivalproject.com/">Shutoko Revival Project</a></li>
@@ -62,7 +61,6 @@
 			<ul>
 				<li><a href="https://www.overtake.gg/downloads/acc-hud-simhub.60807/">Assetto Corsa Competizione HUD for SimHub</a></li>
 				<li><a href="https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/">C13 AEGIS PP Filter</a></li>
-				<li><a href="https://www.overtake.gg/downloads/sol.24914/">Sol</a></li>
 				<li><a href="https://www.patreon.com/peterboese">Pure</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879">New AI + Track Fixing mega pack</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-1.7226/">Fonsecker Sound Pack Part 1</a></li>
