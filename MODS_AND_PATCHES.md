@@ -17,7 +17,7 @@
 				<li><a href="https://www.simhubdash.com/">SimHub</a></li>
 				<li><a href="https://thecrewchief.org/">Crew Chief</a></li>
 				<li><a href="https://www.overtake.gg/downloads/extended-controls.67824/">Extended Controls</a></li>
-				<li><a href="https://www.overtake.gg/downloads/broken-cars-kicker.72778/">Broken Cars Kicker</a></li>
+				<li><a href="https://www.overtake.gg/downloads/comfy-map.52623/">Comfy Map</a></li>
 			</ul>
 		</td>
 		<!-- Cars -->
@@ -31,7 +31,6 @@
 				<li><a href="https://racesimstudio.sellfy.store/p/p91-evo/">RSS Protech P91 Hybrid Evo</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/mph-p96/">RSS MP-H Protech P96 V8</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/mph-bayer-v8/">RSS MP-H Bayer Hybrid V8</a></li>
-				<li><a href="https://www.assettoworld.com/car/lexus-rc-f-gt3-acc">Lexus RC F GT3</a></li>
 				<li><a href="https://assettocorsamods.io/cars/street/aston_martin_db111/">Aston Martin DB11</a></li>
 				<li><a href="https://unitedracingdesign.sellfy.store/p/ac-bayro-4-gt3/">URD Bayro 4 GT3</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-one/">VRC Prototype H Pack One</a></li>
@@ -49,7 +48,7 @@
 				<li><a href="https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file">Circuit Gilles Villeneuve</a></li>
 				<li><a href="https://shutokorevivalproject.com/">Shutoko Revival Project</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/la-canyons.15067/">LA Canyons</a></li>
-				<li><a href="https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/">Two-Way Traffic Layout</a></li>
+				<li><a href="https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/">LA Canyons Two-Way Traffic Layout</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/">Circuit de la Sarthe (Le Mans 24H)</a></li>
 				<li><a href="https://www.patreon.com/pyyer">pyyer's Track Extensions</a></li>
 			</ul>
