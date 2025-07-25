@@ -18,6 +18,7 @@
 				<li><a href="https://thecrewchief.org/">Crew Chief</a></li>
 				<li><a href="https://www.overtake.gg/downloads/extended-controls.67824/">Extended Controls</a></li>
 				<li><a href="https://www.overtake.gg/downloads/comfy-map.52623/">Comfy Map</a></li>
+				<li><a href="https://www.overtake.gg/downloads/lut-generator-for-ac.9740/">LUT Generator and Wheel Check</a></li>
 			</ul>
 		</td>
 		<!-- Cars -->
